@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <!-- Bootstrap CSS -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+      <!-- jQuery library -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+      <!-- Latest compiled bootstrap JavaScript -->
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+      <!-- DataTables  -->
+      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.css">
+      <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"></script>
+      <!-- JavaScript code to modify tables  -->
+      <script src="displayCode.js"></script>
+      <style>
+         div.mainBody {
+         width: 90%;
+         margin: auto;
+         }
+         h1 {
+         text-align: center;
+         }
+      </style>
+   </head>
+   <body>
+      <div class ="mainBody">
+        <h1>COVID-19 Data by County (Live)</h1>
