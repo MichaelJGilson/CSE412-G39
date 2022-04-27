@@ -22,4 +22,6 @@ The simplest way to use the program is in the following steps:
 (This will also be displayed in the demo video)
 
 Group 39 Project contributors:
-Michael Gilson
+Michael Gilson - Developed and wrote the code for Python/JS/HTML
+Joseph Castillo - Provided the SQL dump
+Damon Williams - Recorded youtube demo video
